@@ -9,6 +9,9 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+    background-image: url('assets/portfolio_background.jpg');
+    background-size: cover;
+
 }
 html{
     scroll-behavior: smooth;
